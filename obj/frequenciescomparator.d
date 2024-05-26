@@ -1,0 +1,17 @@
+.\obj\frequenciescomparator.o: src\frequenciesComparator.c
+.\obj\frequenciescomparator.o: C:\Keil_v5\ARM\ARMCC5\Bin\..\include\stdio.h
+.\obj\frequenciescomparator.o: C:\Keil_v5\ARM\ARMCC5\Bin\..\include\string.h
+.\obj\frequenciescomparator.o: C:\Keil_v5\ARM\ARMCC5\Bin\..\include\stdlib.h
+.\obj\frequenciescomparator.o: .\drivers\lcd.h
+.\obj\frequenciescomparator.o: src\FrequenciesComparator.h
+.\obj\frequenciescomparator.o: src\globalParameters.h
+.\obj\frequenciescomparator.o: .\drivers\platform.h
+.\obj\frequenciescomparator.o: C:\Users\giunt\AppData\Local\Arm\Packs\Keil\LPC4000_DFP\2.2.2\Device\Include\LPC407x_8x_177x_8x.h
+.\obj\frequenciescomparator.o: C:\Users\giunt\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h
+.\obj\frequenciescomparator.o: C:\Keil_v5\ARM\ARMCC5\Bin\..\include\stdint.h
+.\obj\frequenciescomparator.o: C:\Users\giunt\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\obj\frequenciescomparator.o: C:\Users\giunt\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\obj\frequenciescomparator.o: C:\Users\giunt\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\obj\frequenciescomparator.o: C:\Users\giunt\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h
+.\obj\frequenciescomparator.o: C:\Users\giunt\AppData\Local\Arm\Packs\Keil\LPC4000_DFP\2.2.2\Device\Include\system_LPC407x_8x_177x_8x.h
+.\obj\frequenciescomparator.o: src\errorm.h
