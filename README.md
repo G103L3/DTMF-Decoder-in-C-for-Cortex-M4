@@ -50,8 +50,13 @@ This document delves into each system component, providing a detailed explanatio
         * The DTMF matrix (Figure 10) is used for key recognition based on high and low frequency comparisons.
 
 
+# Contributors
 
-## Copyright Notice
+ - G103L3 (Gioele Giunta)
+ - G C (Anonym)
+ - J E (Anonym)
+
+# Copyright Notice
 
 Copyright (c) 2024 Gioele Giunta
 
